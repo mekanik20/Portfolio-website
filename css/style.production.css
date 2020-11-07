@@ -3,7 +3,7 @@ body{
   font-weight: 400;
   font-size: 16px;
   /* Sets the font size to 16px */
-  line-hecight: 1.6;
+  line-height: 1.6;
   /* Sets the line-height to 1.6 */
 }
 a {
@@ -76,15 +76,6 @@ button:focus,
   opacity: 0.8;
 }
 
-
-.profile__portrait {
-  float: left;
-}
-
-.page-footer {
-  clear: both;
-}
-
 .profile__portrait {
   float: left;
   width: 250px;
@@ -98,7 +89,7 @@ button:focus,
   margin: 0 auto;
 }
 
-* {
+ *{
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }

@@ -82,14 +82,6 @@ button:focus,
 
 .profile__portrait {
   float: left;
-}
-
-.page-footer {
-  clear: both;
-}
-
-.profile__portrait {
-  float: left;
   width: 250px;
   height: auto;
   margin-right: 40px;
